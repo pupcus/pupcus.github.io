@@ -1,2 +1,7 @@
 # pupcus.github.io
-front end web pages for pupcus github and projects
+
+# Welcome
+
+projects here on pupcus:
+
+[kosmos](http://pupcus.github.io/kosmos)
